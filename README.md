@@ -15,7 +15,8 @@
 ### **PENGERTIAN OOP**
 - **object-oriented-programing/OOP** adalah paradigma pemrograman berdasarkan konsep "objek", yang dapat berisi data, dalam bentuk field atau dikenal juga sebagai atribut; serta kode, dalam bentuk fungsi/prosedur atau dikenal juga sebagai method.
 <br>
-### **PRIVIEW PROGRAM**
+
+**PRIVIEW PROGRAM**
 
 
 [![asciicast](https://asciinema.org/a/458162.svg)](https://asciinema.org/a/458162)
